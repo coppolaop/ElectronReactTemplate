@@ -28,7 +28,7 @@ We are using [SemVer](http://semver.org/) for versioning. To see our published v
 
 ## Creator
 
-* **Marcos "Coppola" Gonçalves** - *2020* - [Coppolaop](https://github.com/coppolaop)
+* **Marcos "Coppola" Gonçalves** - *2022* - [Coppolaop](https://github.com/coppolaop)
 
 ## License
 
