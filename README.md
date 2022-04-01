@@ -1,45 +1,35 @@
 # ElectronReactTemplate
-Um sistema para gerenciar personagens de histórias.
+A template of an electron application using react
 
-## Ponto de Partida
+## Start
 
-Você, mestre de RPG de mesa, já teve dificuldades para lembrar dos NPCs da sua campanha?
-Não lembra como interpretar cada um deles ou informações mais basicas como localização e idade.
-Tem vontade de resumir tudo e deixar registrado para administrar melhor seu próprio universo?
+If you need to integrate Electron and react, this application will help you to make it easier.
+Just create a repository using this template, change some example codes and implement your own functions.
 
-Você, escritor, já teve dificuldade em gerenciar informações sobre os personagens da sua história?
-Quer registrar melhor em quais capitulos um determinado personagem aparece?
+## Prerequisites
 
-Aqui está a solução para estes pequenos problemas, o Tale Manager.
-Este sistema ajudará o mestre/narrador de RPG e também ao escritor a organizarem seus próprios cenários.
-Observe as funcionalidades:
+- [Node](nodejs.org)
+- [NPM](npmjs.com)
+- [Yarn](yarnpkg.com)
 
+### Installing project
 ```
-- Registro localizações e personagens
-- Gerenciar relação entre localizações/localizações, personagens/personagens e localizações/personagens
-- Filtros de pesquisa
-- Marcação de Campanhas e/ou Livros
-  
+yarn install
 ```
 
-## Versionamento
+## Executing
+```
+yarn dev
+```
 
-Nós utilizamos [SemVer](http://semver.org/) para versionamento. Para as versões disponíveis, veja as [tags nesse repositório](https://github.com/DarksunTeam/ElectronReactTemplate/tags). 
+## Versioning
 
-## Criador
+We are using [SemVer](http://semver.org/) for versioning. To see our published versions, take a look on this [repository tags](https://github.com/DarksunTeam/ElectronReactTemplate/tags). 
 
-* **Marcos "Coppola" Gonçalves** - *2020* - [Coppolaop](https://github.com/coppolaop)
-
-## Desenvolvedores
-
-* **Marcos "Coppola" Gonçalves** - *2020* - [Coppolaop](https://github.com/coppolaop)
-* **Vitor Abel** - *2020* - [vitor-abel](https://github.com/vitor-abel)
-
-## Testadores
+## Creator
 
 * **Marcos "Coppola" Gonçalves** - *2020* - [Coppolaop](https://github.com/coppolaop)
 
-## Licença
+## License
 
-Esse projeto é licensiado sobre a licença Apache-2.0 - veja a [Licença](LICENSE) para mais detalhes.
-# ElectronReactTemplate
+This project is licensed using Apache-2.0 - take a look on this [License](LICENSE) for more details.
