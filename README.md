@@ -8,9 +8,9 @@ Just create a repository using this template, change some example codes and impl
 
 ## Prerequisites
 
-- [Node](nodejs.org)
-- [NPM](npmjs.com)
-- [Yarn](yarnpkg.com)
+- [Node](https://nodejs.org)
+- [NPM](https://npmjs.com)
+- [Yarn](https://yarnpkg.com)
 
 ### Installing project
 ```
